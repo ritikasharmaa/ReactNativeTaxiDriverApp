@@ -16,7 +16,7 @@ export const ConfigProvider = ({ children }) => {
     isFacebookAuthEnabled: true,
     forgotPasswordEnabled: true,
     appIdentifier: 'rn-multivendor-driverapp-android',
-    googleMapsAPIKey: 'AIzaSyBI8oXdc-lbtvRxuVstY6eXG5G9FNCT4fU',
+    googleMapsAPIKey: '',
     isDelayedLoginEnabled: false,
     tables: {
       VENDOR: 'vendors',
