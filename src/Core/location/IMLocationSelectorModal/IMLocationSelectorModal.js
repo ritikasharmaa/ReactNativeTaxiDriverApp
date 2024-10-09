@@ -10,7 +10,7 @@ import TextButton from 'react-native-button'
 import dynamicStyles from './styles'
 
 const locationDelta = { latitudeDelta: 0.0922, longitudeDelta: 0.0421 }
-const defaultGoogleApiKey = 'AIzaSyAFwTWTLJBx5A1vY8cTvK6PmnE6wMKCT1E'
+const defaultGoogleApiKey = ''
 
 function IMLocationSelectorModal(props) {
   const { onCancel, isVisible, onChangeLocation, onDone, apiKey } = props
