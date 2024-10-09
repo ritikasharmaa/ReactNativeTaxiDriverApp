@@ -17,11 +17,7 @@
           "client_id": "1099201876026-8h5muvpa8d1hmii3mkidbge065t7is86.apps.googleusercontent.com",
           "client_type": 3
         }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyABq2WJNGXFZC2u-_9Z9SjWovSdmTe29ko"
-        }
+      ]
       ],
       "services": {
         "appinvite_service": {
